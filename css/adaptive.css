@@ -35,4 +35,7 @@
     .wrap{
         max-width: 360px;
     }
+    .main{
+        max-width: 360px;
+    }
 }
