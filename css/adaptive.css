@@ -1,11 +1,5 @@
 @media only screen and(max-width: 1200px){
-    body{
-        font-size: 24px;
-        line-height: 24px;
-    }
-    .wrap{
-        max-width: 1120px;
-    }
+    
 }
 
 
@@ -13,29 +7,14 @@
 
 
 @media only screen and(max-width: 800px){
-    body{
-        font-size: 12px;
-        line-height: 12px;
-    }
-    .wrap{
-        max-width: 600px;
-    }
+    
 }
 
 
+
+
+
+
 @media only screen and(max-width: 400){
-    body{
-        max-width:395px
-        font-size: 8px;
-        line-height: 8px;
-    }
-    nav{
-        font-size: 12px;
-    }
-    .wrap{
-        max-width: 360px;
-    }
-    .main{
-        max-width: 360px;
-    }
+
 }
